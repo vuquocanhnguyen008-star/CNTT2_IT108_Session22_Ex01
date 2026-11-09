@@ -25,6 +25,4 @@
 
 ## 4. Ảnh chụp màn hình
 
-> *(Dán ảnh chụp 3 kết quả đầu tiên sau khi gõ "Combo toán tử" vào đây. Nhớ che thông tin cá nhân nếu có.)*
-
-![3 kết quả đầu tiên](anh_bai1.png)
+<img width="1096" height="720" alt="image" src="https://github.com/user-attachments/assets/fb7470ed-5ed6-4c49-aab6-d05bd52f4254" />
